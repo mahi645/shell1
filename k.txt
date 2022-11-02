@@ -2,3 +2,7 @@ pwd --know the path
 ls --list the directories and files
 mkdir dir1-creation directory named dir1
 mkdir dir1-creation directory named dir2
+touch fil1.txt--creation of a file named fil1.txt
+touch fil2.pdf --creation of a file named fil2.pdf
+mv fil1.txt ./dir1 --moving fil1.txt 
+mv /dir1/.* ./dir2 --moving all files in dir1 to dir2

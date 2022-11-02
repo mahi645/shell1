@@ -1,1 +1,4 @@
-  cnnmnmanm
+pwd --know the path
+ls --list the directories and files
+mkdir dir1-creation directory named dir1
+mkdir dir1-creation directory named dir2
